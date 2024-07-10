@@ -22,9 +22,4 @@
 ## :link: Demo
 🌐 <a href="https://fitness-huyhoang-doit.web.app/" target="_blank">Fitness-exercises-HDI</a>
 
-## :key: License
-© 2024 Huy Hoang Licensed under the <a href="https://github.com/huyhoang-doit/Fitness_exercies_project/blob/master/LICENSE" target="_blank">MIT License</a>
-
-<a href="https://ibb.co/XWB1n9v"><img src="https://i.ibb.co/K5ZdtY3/HDI-2.png" alt="Huyhoang-doit" border="0" width="8%" height="8%" /></a>
-### Huyhoang-doit :man_technologist:
 
