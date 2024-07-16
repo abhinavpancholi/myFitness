@@ -1,6 +1,6 @@
 # :muscle: myFitness - Mini web app using ReactJS / Material UI with RapidAPI
 
-<a href="https://ibb.co/gtgNytL"><img width="100%" height="auto"  src="https://i.ibb.co/SVvbNV4/Screenshot-2024-04-29-144226.png" alt="Screenshot-2024-04-29-144226" border="0" /></a>
+<a href="https://ibb.co/6NGvqY2"><img width="100%" height="auto"  src="https://ibb.co/6NGvqY2" alt="Screenshot-2024-04-29-144226" border="0" /></a>
 
 ## 🌟🌟🌟
 - [About](#beginner-about)
