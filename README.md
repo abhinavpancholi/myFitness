@@ -1,7 +1,7 @@
 # :muscle: myFitness - Mini web app using ReactJS / Material UI with RapidAPI
 
-<a href="https://ibb.co/6NGvqY2"><img width="100%" height="auto"  src="https://ibb.co/6NGvqY2" alt="Screenshot-2024-04-29-144226" border="0" /></a>
 
+<a href="https://ibb.co/6NGvqY2"><img src="https://i.ibb.co/6NGvqY2/my-Fitness-ss.png" alt="my-Fitness-ss" border="0"></a>
 ## 🌟🌟🌟
 - [About](#beginner-about)
 - [Usage](#memo-usage)
