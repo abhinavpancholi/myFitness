@@ -1,6 +1,6 @@
 
 import { Box, Stack, Typography, Button } from '@mui/material'
-import HeroBannerImage from '../assets/images/1.png'
+import HeroBannerImage from '../assets/images/banne.png'
 
 const HeroBanner = () => {
   const scrollToSection = (sectionId) => {
